@@ -1,0 +1,208 @@
+2018-10-30  2.4.7 again! bugfix: npe if no ibatis.ini
+
+2018-10-10  bugfix: count paging query for oracle 12c+
+
+2018-6-4    bugfix: NPE while batch sql stats
+            refine code and performance
+
+2018-5-21   refine sql check
+
+2018-5-15   refine performance and SimpleDataSource lock
+
+2018-5-9    refine dtd 2.4: add canBatch and noBatch attr
+            fixbug: method override lost in ProcedureStatement and CachingStatement
+            refine SimpleDataSource lock and performance
+            add Pool.CommitOnReturn parameter, default false
+            sync cglib caches
+            refine ArrayMap and erase unused code
+
+2018-4-24   refine performance
+
+2018-4-24   refine batch sql stats
+
+2018-4-23   fixbug: now # can in ''
+            refine performance
+
+2018-4-20   jbatis-guide.md released.
+            refine code consistency with the guide
+            refine dynamic tag processing performance
+            refine sql stats code
+            fixbug: list data exchange fail when in quick <iterate>
+
+2018-4-13   check_sql to check <select> remapResults flag
+            refine dynamic sql generating
+            refine duplicated statement check
+            refine duplicated sql map resource log
+            sync refine from https://github.com/mybatis/ibatis-2
+            some code fixes.
+
+2018-3-29   spring 4.x and 5.x verified.
+
+2018-2-12   fixbug: paging query for sqlserver 2012+
+            paging query for oracle 12c+ and db2 9.7+
+            refine SimpleDataSource
+
+2018-1-10   refine sql text process
+
+2018-1-5    add page dialect for sql server 2012+
+            fixbug: now $ can in ''
+            refine perfermance
+
+2018-1-4    update to jbatis 2.4.7
+            refine page query
+            bugfix: page query via entity manager
+            refine perfermance
+            add mysql page dialect
+            add sql lexer and refine LogR
+            add postgresql page dialect
+
+2017-12-20  refine duplicated statement judgement
+
+2017-12-6   update to jbatis 2.4.6
+            refine <iterate> perfermance and bugfix
+            flush cache at batch end for perfermance
+            refine some log
+            refine LogR
+
+2017-12-1   <iterate> add Set support and refine perfermance
+            refine fast field and fast method
+            cglib_cache_size default 2048 in ibatis.ini
+            split atomikos to 4.0.5
+
+2017-11-16  refine perfermance when no parameter
+            erase dom probe
+
+2017-11-7   parameter handler: _like_ support
+            refine 2.4 dtd
+
+2017-9-24   refine cache notification
+
+2017-4-19,  rename to jbatis 2.4.5
+            xa support
+
+2017-4-1,   also use stream to parse <sqlMap> if Resources.charset is null
+
+2016-12-29, None cache for special usage
+            refine DaoSupport
+
+2016-12-12, support <settings defaultCacheModelType="*" forceCacheModelType="*"/>
+            no sync flush if no memory.mcast.enable=true in ibatis.ini
+            refine MEMORY cache
+            support ${key:defaultValue} in xml
+
+2016-10-27, refine SimpleDataSource lock
+            cache_flush_monitor in stats file: <cache-id>.onFlush=error|info
+
+2016-10-14, cglib enhanced and bugfix from 88 or ealier
+
+---------------------------------------------------------------
+1, Impl the jdbc4 api.
+2, Support setParameter() for non-type null value.
+ - (fixed by 2.3.5)
+3, Ignore the primitive null value while processing ResultSet.
+4, Add cached rowset impl for result exporting.
+5, Add dialect support.
+6, Update to 2.3.5
+7, Improve the batch processing.
+8, Add auto tx in batch.
+9, cglib added. 
+10, unbox null value as zero
+11, change default idle conn nummber from 5 to 2
+12, set global props into ds
+13, support to ping idle conn for SIMPLE data source
+14, support to erase idle conn for SIMPLE data source
+15, refine the error context output
+16, read default global properties from classpath:/ibatis.ini
+17, bulk with fileds
+18, refine the log of SimpleDataSource
+19, add sql args to error ctx
+20, sleep 15s before close conn pool
+21, trim the sql string
+22, erase too old conn for SIMPLE data source
+23, adjust the error log and pool log
+24, refactor cglib and asm, adjust the logs of jdbc pool
+25, batch bug fix, start batch error if exists one
+26, call procedure in batch
+27, support logging slow sql
+28, support spring integration
+-- Upgrade to 2.4.0 2012-6
+29, add dynamic sql tag alias and bugfix-1
+30, support debug sql
+31, improve query for map
+32, keep object id while applying result-map
+33, ignore first char's case of bean property name.
+34, CacheModel trace log for object retrieved
+35, better ehcache support
+36, only warn when cache triger missed
+37, refine too many result error
+38, refine batch error detail
+39, better sql debug logging
+40, queryForObject() bug fixed from 37
+41, better debug info for 30 and 27
+42, queryForFirst optimized
+43, add $@param$ support
+44, getRealDataSource() in org.ibatis.client.SqlMapClient
+45, support defaultTransactionIsolation for SIMPLE data source
+45, refine status log and tx isolation def
+46, refine isValid() for SIMPLE data source
+47, fixbug: sqlMap resource lost when using spring mappingLocations
+48, refine debug output for date parameter
+49, refine batch and debug info
+50, fixbug: args debug info
+51, fixbug: resultMap <result property="aaa.bbb" column="ccc" />
+52, refine exception path
+53, refine formatting sql text
+54, fixbug: dynamic sql in same batch cause error since #25
+55, refine formatting sql text for performance
+56, auto warp ' ' before and after prependAttr.trim()
+57, support batchSize via startBatch(int)
+58, refine exceptions in SIMPLE data source
+59, refine: skipResults < 0
+60, spring factory bean bug fix.
+61, ver 2.4.1: entity api 0.5
+62, fix all generic warning
+63, add criteria api
+64, add settings:jdbcTypeForNull suppport
+65, Pool.MaximumCheckoutTime -1 means unlimited.
+66, entity find() bug.
+67, return Integer if insert statement has no genkey.
+68, bugfix for cached statement query for map from 60
+69, ver 2.4.2: re-include apache row set impl.
+70, add queryForResultSet() api.
+71, add SqlMapClientFactoryBeanX to inject web context attrs
+72, add org.ibatis.client.SqlMapClient.getGlobalProperty(String)
+73, lazy init oscache
+74, bugfix: sql_executor re-init bug.
+75, refine cacheModel access.
+76, debug log the call result.
+77, add Pool.ShutdownDelay parameter
+78, bugfix: wrong prepareStatement(String,int,int) impl
+79, add Pool.LogSqlOverdueThan parameter, must be CAREFUL to use
+80, refine SIMPLE data source, log pool_status_file, bugfix 
+81, upgrade to ASM 5.0.4, enhanced reflect api use
+82, refine cache performance
+83, use rowset impl of jdk
+83, ver 2.4.3: entity api 0.7, cache support
+84, refine spring session use as per tx
+85, refine pool log, and queryForPageArgs() api
+86, refine MEMORY cache, export Cache API, time log refine
+87, add queryWithRowHandlerArgs(), refine the user API
+88, ver 2.4.4: refine code and better performance
+89, debug log skip-total info and bugfix for batch log
+90, refine run stats: sql_executor_stats_sql, run_stats_file from 80
+91, cacheModel support cascade flush, refine cache mechanism
+92, erase xml result/parameter support, never used.
+93, compatible with jgroups 2.x and 3.x: 
+    com.ibatis.sqlmap.engine.cache.jgroups.OSCacheJGroupsBroadcastingListener
+94, bugfix: cache flush self when expired
+95, bugfix: ehcache controller npe
+96, bugfix: error context conn code bug
+97, add CacheRoot api and dtd support
+98, refine sql processing and batch performance
+99, refine sql stats and log, refine cache
+100, refine pool log and dump thread while waiting to long for conn
+101, add time log to sql stats and initial time
+102, refine jgroups-3.6.10 for ehcache-2.6.11 and oscache-2.4.1 support, drop 93
+    org.ibatis.jgroups.ehcache.JGroupsCacheManagerPeerProviderFactory
+    org.ibatis.jgroups.oscache.JavaGroupsBroadcastingListener
+ 
