@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1450" height="1042" text-rendering="auto" shape-rendering="auto">
+<defs><clipPath id="_9m3i20_0"><path d="M0,0 L25,0 L25,73 L0,73 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_1"><path d="M0,0 L133,0 L133,109 L0,109 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_2"><path d="M0,0 L229,0 L229,181 L0,181 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_3"><path d="M0,0 L205,0 L205,157 L0,157 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_4"><path d="M0,0 L25,0 L25,85 L0,85 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_5"><path d="M0,0 L468,0 L468,1032 L0,1032 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_6"><path d="M0,0 L336,0 L336,480 L0,480 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_7"><path d="M0,0 L336,0 L336,168 L0,168 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_8"><path d="M0,0 L336,0 L336,264 L0,264 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_9"><path d="M0,0 L336,0 L336,132 L0,132 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_10"><path d="M0,0 L264,0 L264,96 L0,96 L0,0 Z"/></clipPath>
+<clipPath id="_9m3i20_11"><path d="M0,0 L336,0 L336,336 L0,336 L0,0 Z"/></clipPath>
+</defs>
+<g style="font-family:Microsoft YaHei;font-size:14px;stroke-linecap:square;stroke-opacity:1;fill-opacity:1;">
+<line x1="12" y1="12" x2="12" y2="36" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"/>
+<line x1="12" y1="36" x2="12" y2="60" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"/>
+<line x1="12" y1="12" x2="18" y2="24" style="stroke:black;" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"/>
+<line x1="12" y1="12" x2="6" y2="24" style="stroke:black;" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"/>
+<g style="fill:white;; stroke: none" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"><path d="M12,12 L18,24 L6,24 Z"/></g>
+<g style="stroke:black;fill:none;" transform="matrix(1,0,0,1,281,797)" clip-path="url(#_9m3i20_0)"><path d="M12,12 L18,24 L6,24 Z"/></g>
+<line x1="12" y1="12" x2="66" y2="54" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"/>
+<line x1="66" y1="54" x2="120" y2="96" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"/>
+<line x1="13" y1="13" x2="26" y2="15" style="stroke:black;" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"/>
+<line x1="13" y1="13" x2="19" y2="25" style="stroke:black;" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"/>
+<g style="fill:white;; stroke: none" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"><path d="M13,13 L26,15 L19,25 Z"/></g>
+<g style="stroke:black;fill:none;" transform="matrix(1,0,0,1,149,581)" clip-path="url(#_9m3i20_1)"><path d="M13,13 L26,15 L19,25 Z"/></g>
+<line x1="216" y1="12" x2="114" y2="90" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"/>
+<line x1="114" y1="90" x2="12" y2="168" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"/>
+<line x1="214" y1="13" x2="208" y2="25" style="stroke:black;" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"/>
+<line x1="214" y1="13" x2="201" y2="15" style="stroke:black;" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"/>
+<g style="fill:white;; stroke: none" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"><path d="M214,13 L208,25 L201,15 Z"/></g>
+<g style="stroke:black;fill:none;" transform="matrix(1,0,0,1,305,509)" clip-path="url(#_9m3i20_2)"><path d="M214,13 L208,25 L201,15 Z"/></g>
+<line x1="12" y1="12" x2="102" y2="78" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"/>
+<line x1="102" y1="78" x2="192" y2="144" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"/>
+<line x1="13" y1="13" x2="26" y2="15" style="stroke:black;" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"/>
+<line x1="13" y1="13" x2="19" y2="25" style="stroke:black;" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"/>
+<g style="fill:white;; stroke: none" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"><path d="M13,13 L26,15 L19,25 Z"/></g>
+<g style="stroke:black;fill:none;" transform="matrix(1,0,0,1,329,197)" clip-path="url(#_9m3i20_3)"><path d="M13,13 L26,15 L19,25 Z"/></g>
+<line x1="12" y1="12" x2="12" y2="42" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"/>
+<line x1="12" y1="42" x2="12" y2="72" style="stroke:black;stroke-linecap:butt;stroke-dasharray:8,5;" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"/>
+<line x1="12" y1="12" x2="18" y2="24" style="stroke:black;" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"/>
+<line x1="12" y1="12" x2="6" y2="24" style="stroke:black;" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"/>
+<g style="fill:white;; stroke: none" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"><path d="M12,12 L18,24 L6,24 Z"/></g>
+<g style="stroke:black;fill:none;" transform="matrix(1,0,0,1,665,269)" clip-path="url(#_9m3i20_4)"><path d="M12,12 L18,24 L6,24 Z"/></g>
+<rect x="0" y="0" width="467" height="1031" style="fill:#80ff80;fill-opacity:0.5;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<line x1="0" y1="0" x2="466" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<line x1="467" y1="0" x2="467" y2="1030" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<line x1="467" y1="1031" x2="1" y2="1031" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<line x1="0" y1="1031" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<g transform="matrix(1,0,0,1,977,5)"><text x="180" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_5)">org.ibatis.spring</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="158" y="34" style="fill:#990033;" clip-path="url(#_9m3i20_5)">SqlMapClientTemplate</text></g>
+<line x1="0" y1="37" x2="467" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_5)">-sqlMapClient: SqlMapClient</text></g>
+<line x1="0" y1="57" x2="467" y2="57" style="stroke:#990033;" transform="matrix(1,0,0,1,977,5)" clip-path="url(#_9m3i20_5)"/>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="74" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+SqlMapClientTemplate()</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="91" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+SqlMapClientTemplate(sqlMapClient: SqlMapClient)</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="108" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+SqlMapClientTemplate(dataSource: DataSource, sqlMapClient: SqlMapClient)</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="125" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+setSqlMapClient(sqlMapClient: SqlMapClient): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="142" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+getSqlMapClient(): SqlMapClient</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="159" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+getDataSource(): DataSource</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="176" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+afterPropertiesSet(): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="193" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+execute(action: SqlMapClientCallback&lt;T&gt;): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="210" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForObject(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="227" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForObject(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="244" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForObject(id: String, parameterObject: Object, resultObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="261" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForList(id: String): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="278" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForList(id: String, parameterObject: Object): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="295" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForList(id: String, skipResults: int, maxResults: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="312" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForList(id: String, parameterObject: Object, skipResults: int, maxResults: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="329" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryWithRowHandler(id: String, rowHandler: RowHandler): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="346" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryWithRowHandler(id: String, parameterObject: Object, rowHandler: RowHandler): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="363" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryWithRowHandler(id: String, rowHandler: RowHandler, args: Object[]): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="380" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMap(id: String, parameterObject: Object, keyProperty: String): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="397" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMap(id: String, parameterObject: Object, keyProperty: String, valueProperty: String): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="414" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMap(id: String, parameterObject: Object, keyProperty: String, keyType: Class&lt;K&gt;, valueProperty: String, valueType: Class&lt;V&gt;): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="431" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+insert(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="448" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+insert(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="465" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+update(id: String): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="482" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+update(id: String, parameterObject: Object): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="499" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+update(id: String, parameterObject: Object, requiredRowsAffected: int): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="516" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+delete(id: String): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="533" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+delete(id: String, parameterObject: Object): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="550" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+delete(id: String, parameterObject: Object, requiredRowsAffected: int): void</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="567" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+insertArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="584" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+updateArgs(id: String, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="601" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+deleteArgs(id: String, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="618" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForListArgs(id: String, args: Object[]): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="635" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForListArgs(skip: int, max: int, id: String, args: Object[]): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="652" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForPage(page: List&lt;T&gt;, id: String, skip: int, max: int): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="669" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForPage(page: List&lt;T&gt;, id: String, paramObject: Object, skip: int, max: int): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="686" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForPageArgs(page: List&lt;T&gt;, id: String, skip: int, max: int, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="703" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMapArgs(id: String, keyProp: String, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="720" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMapArgs(id: String, keyProp: String, valueProp: String, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="737" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForMapArgs(id: String, keyProp: String, keyType: Class&lt;K&gt;, valueProp: String, valueType: Class&lt;V&gt;, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="754" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForObjectArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="771" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForFirstArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="788" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForFirst(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="805" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForFirst(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="822" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+getDialect(): Dialect</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="839" style="fill:#990033;" clip-path="url(#_9m3i20_5)">~toParameter(args: Object[]): Map&lt;String,Object&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="856" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+insertEntity(cls: Class&lt;E&gt;, entity: E): E</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="873" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+updateEntity(cls: Class&lt;E&gt;, entity: E): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="890" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+deleteEntity(cls: Class&lt;E&gt;, key: K): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="907" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+findEntity(cls: Class&lt;E&gt;, key: K): E</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="924" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeQueryObject(criteriaQuery: CriteriaQuery&lt;T&gt;): T</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="941" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeQuery(criteriaQuery: CriteriaQuery&lt;T&gt;): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="958" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeQuery(criteriaQuery: CriteriaQuery&lt;T&gt;, startPosition: int, maxResult: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="975" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeQueryPage(criteriaQuery: CriteriaQuery&lt;T&gt;, page: List&lt;T&gt;, startPosition: int, maxResult: int): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="992" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeUpdate(updateQuery: CriteriaUpdate&lt;T&gt;): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="1009" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+executeDelete(deleteQuery: CriteriaDelete&lt;T&gt;): int</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="1026" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+getCriteriaBuilder(): CriteriaBuilder</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="1043" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForResultSetArgs(id: String, args: Object[]): ResultSet</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="1060" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForResultSet(id: String): ResultSet</text></g>
+<g transform="matrix(1,0,0,1,977,5)"><text x="7" y="1077" style="fill:#990033;" clip-path="url(#_9m3i20_5)">+queryForResultSet(id: String, parameterObject: Object): ResultSet</text></g>
+<rect x="0" y="0" width="335" height="479" style="fill:#80c0ff;fill-opacity:0.5;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<line x1="0" y1="0" x2="334" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<line x1="335" y1="0" x2="335" y2="478" style="stroke:#990033;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<line x1="335" y1="479" x2="1" y2="479" style="stroke:#990033;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<line x1="0" y1="479" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<g transform="matrix(1,0,0,1,521,341)"><text x="88" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_6)">com.ibatis.sqlmap.client</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="114" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_6)">SqlMapExecutor</text></g>
+<line x1="0" y1="37" x2="335" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,521,341)" clip-path="url(#_9m3i20_6)"/>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+insert(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+insert(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+update(id: String, parameterObject: Object): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="105" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+update(id: String): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="122" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+delete(id: String, parameterObject: Object): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="139" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+delete(id: String): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="156" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForObject(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="173" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForObject(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="190" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForObject(id: String, parameterObject: Object, resultObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="207" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForList(id: String, parameterObject: Object): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="224" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForList(id: String): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="241" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForList(id: String, parameterObject: Object, skip: int, max: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="258" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForList(id: String, skip: int, max: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="275" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForPage(page: List&lt;T&gt;, id: String, paramObject: Object, skip: int, max: int): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="292" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForPage(page: List&lt;T&gt;, id: String, skip: int, max: int): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="309" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryWithRowHandler(id: String, parameterObject: Object, rowHandler: RowHandler): void</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="326" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryWithRowHandler(id: String, rowHandler: RowHandler): void</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="343" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForMap(id: String, parameterObject: Object, keyProp: String): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="360" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForMap(id: String, parameterObject: Object, keyProp: String, valueProp: String): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="377" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForMap(id: String, parameterObject: Object, keyProp: String, keyType: Class&lt;K&gt;, valueProp: String, valueType: Class&lt;V&gt;): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="394" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+startBatch(): void</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="411" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+startBatch(batchSize: int): void</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="428" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+executeBatch(): int</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="445" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+executeBatchDetailed(): List&lt;BatchResult&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,341)"><text x="7" y="462" style="fill:#990033;" clip-path="url(#_9m3i20_6)">+queryForResultSet(id: String, parameterObject: Object): ResultSet</text></g>
+<rect x="0" y="0" width="335" height="167" style="fill:#ffafaf;fill-opacity:0.5;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<line x1="0" y1="0" x2="334" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<line x1="335" y1="0" x2="335" y2="166" style="stroke:#990033;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<line x1="335" y1="167" x2="1" y2="167" style="stroke:#990033;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<line x1="0" y1="167" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<g transform="matrix(1,0,0,1,5,425)"><text x="88" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_7)">com.ibatis.sqlmap.client</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="74" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_7)">SqlMapTransactionManager</text></g>
+<line x1="0" y1="37" x2="335" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,5,425)" clip-path="url(#_9m3i20_7)"/>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+startTransaction(): void</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+startTransaction(transactionIsolation: int): void</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+commitTransaction(): void</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="105" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+endTransaction(): void</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="122" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+setUserConnection(connnection: Connection): void</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="139" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+getCurrentConnection(): Connection</text></g>
+<g transform="matrix(1,0,0,1,5,425)"><text x="7" y="156" style="fill:#990033;" clip-path="url(#_9m3i20_7)">+getDataSource(): DataSource</text></g>
+<rect x="0" y="0" width="335" height="263" style="fill:#ffd700;fill-opacity:0.5;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<line x1="0" y1="0" x2="334" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<line x1="335" y1="0" x2="335" y2="262" style="stroke:#990033;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<line x1="335" y1="263" x2="1" y2="263" style="stroke:#990033;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<line x1="0" y1="263" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<g transform="matrix(1,0,0,1,521,17)"><text x="113" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_8)">org.ibatis.persist</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="119" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_8)">EntityManager</text></g>
+<line x1="0" y1="37" x2="335" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,521,17)" clip-path="url(#_9m3i20_8)"/>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+initEntityClass(entityClass: Class&lt;E&gt;): EntityType&lt;E&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+insertEntity(cls: Class&lt;E&gt;, entity: E): E</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+updateEntity(cls: Class&lt;E&gt;, entity: E): int</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="105" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+deleteEntity(cls: Class&lt;E&gt;, key: K): int</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="122" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+findEntity(cls: Class&lt;E&gt;, key: K): E</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="139" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeQueryObject(criteriaQuery: CriteriaQuery&lt;T&gt;): T</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="156" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeQuery(criteriaQuery: CriteriaQuery&lt;T&gt;): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="173" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeQuery(criteriaQuery: CriteriaQuery&lt;T&gt;, startPosition: int, maxResult: int): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="190" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeQueryPage(criteriaQuery: CriteriaQuery&lt;T&gt;, page: List&lt;T&gt;, startPosition: int, maxResult: int): int</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="207" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeUpdate(updateQuery: CriteriaUpdate&lt;T&gt;): int</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="224" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+executeDelete(deleteQuery: CriteriaDelete&lt;T&gt;): int</text></g>
+<g transform="matrix(1,0,0,1,521,17)"><text x="7" y="241" style="fill:#990033;" clip-path="url(#_9m3i20_8)">+getCriteriaBuilder(): CriteriaBuilder</text></g>
+<rect x="0" y="0" width="335" height="131" style="fill:#ffff00;fill-opacity:0.5;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<line x1="0" y1="0" x2="334" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<line x1="335" y1="0" x2="335" y2="130" style="stroke:#990033;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<line x1="335" y1="131" x2="1" y2="131" style="stroke:#990033;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<line x1="0" y1="131" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<g transform="matrix(1,0,0,1,137,677)"><text x="88" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_9)">com.ibatis.sqlmap.client</text></g>
+<g transform="matrix(1,0,0,1,137,677)"><text x="123" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_9)">SqlMapClient</text></g>
+<line x1="0" y1="37" x2="335" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,137,677)" clip-path="url(#_9m3i20_9)"/>
+<g transform="matrix(1,0,0,1,137,677)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_9)">+openSession(): SqlMapSession</text></g>
+<g transform="matrix(1,0,0,1,137,677)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_9)">+openSession(conn: Connection): SqlMapSession</text></g>
+<g transform="matrix(1,0,0,1,137,677)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_9)">+flushDataCache(): void</text></g>
+<g transform="matrix(1,0,0,1,137,677)"><text x="7" y="105" style="fill:#990033;" clip-path="url(#_9m3i20_9)">+flushDataCache(cacheId: String): void</text></g>
+<g transform="matrix(1,0,0,1,137,677)"><text x="7" y="122" style="fill:#990033;" clip-path="url(#_9m3i20_9)">+flushEntityCache(entityClass: Class&lt;?&gt;): void</text></g>
+<rect x="0" y="0" width="263" height="95" style="fill:#f0e68c;fill-opacity:0.5;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<line x1="0" y1="0" x2="262" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<line x1="263" y1="0" x2="263" y2="94" style="stroke:#990033;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<line x1="263" y1="95" x2="1" y2="95" style="stroke:#990033;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<line x1="0" y1="95" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<g transform="matrix(1,0,0,1,161,857)"><text x="81" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_10)">org.ibatis.client</text></g>
+<g transform="matrix(1,0,0,1,161,857)"><text x="87" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_10)">SqlMapClient</text></g>
+<line x1="0" y1="37" x2="263" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,161,857)" clip-path="url(#_9m3i20_10)"/>
+<g transform="matrix(1,0,0,1,161,857)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_10)">+getDialect(): Dialect</text></g>
+<g transform="matrix(1,0,0,1,161,857)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_10)">+getRealDataSource(): DataSource</text></g>
+<g transform="matrix(1,0,0,1,161,857)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_10)">+getCache(id: String): Cache</text></g>
+<rect x="0" y="0" width="335" height="335" style="fill:#ffe4c4;fill-opacity:0.5;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<line x1="0" y1="0" x2="334" y2="0" style="stroke:#990033;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<line x1="335" y1="0" x2="335" y2="334" style="stroke:#990033;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<line x1="335" y1="335" x2="1" y2="335" style="stroke:#990033;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<line x1="0" y1="335" x2="0" y2="1" style="stroke:#990033;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<g transform="matrix(1,0,0,1,5,29)"><text x="117" y="17" style="fill:#990033;" clip-path="url(#_9m3i20_11)">org.ibatis.client</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="109" y="34" style="fill:#990033;font-style:italic;" clip-path="url(#_9m3i20_11)">SqlMapExecutor2</text></g>
+<line x1="0" y1="37" x2="335" y2="37" style="stroke:#990033;" transform="matrix(1,0,0,1,5,29)" clip-path="url(#_9m3i20_11)"/>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="54" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+insertArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="71" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+updateArgs(id: String, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="88" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+deleteArgs(id: String, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="105" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForListArgs(id: String, args: Object[]): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="122" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForListArgs(skip: int, max: int, id: String, args: Object[]): List&lt;T&gt;</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="139" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForMapArgs(id: String, keyProp: String, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="156" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForMapArgs(id: String, keyProp: String, valueProp: String, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="173" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForMapArgs(id: String, keyProp: String, keyType: Class&lt;K&gt;, valueProp: String, valueType: Class&lt;V&gt;, args: Object[]): Map&lt;K,V&gt;</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="190" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForObjectArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="207" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForPageArgs(page: List&lt;T&gt;, id: String, skip: int, max: int, args: Object[]): int</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="224" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForFirstArgs(id: String, args: Object[]): T</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="241" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForFirst(id: String): T</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="258" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForFirst(id: String, parameterObject: Object): T</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="275" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryWithRowHandlerArgs(id: String, rowHandler: RowHandler, args: Object[]): void</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="292" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForResultSetArgs(id: String, args: Object[]): ResultSet</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="309" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForResultSet(id: String): ResultSet</text></g>
+<g transform="matrix(1,0,0,1,5,29)"><text x="7" y="326" style="fill:#990033;" clip-path="url(#_9m3i20_11)">+queryForResultSet(id: String, parameterObject: Object): ResultSet</text></g>
+<g transform="matrix(1,0,0,1,0,0)"><text x="2" y="1040" style="fill:#c0c0c0;font-family:Impact;font-size:11px;" >(c)jbatis.org</text></g></g></svg>
